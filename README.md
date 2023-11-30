@@ -11,22 +11,9 @@ SMART Goals Analyzer is a machine learning tool that leverages the BERT model fo
 ## Installation
 
 \```bash
-git clone https://github.com/your_username/smart-goals-analyzer.git
-cd smart-goals-analyzer
-pip install -r requirements.txt
+git clone https://github.com/Rany29-coder/Smart-Goals-Detector
 \```
 
-## Usage
-
-1. Train the model (optional if using a pre-trained model):
-\```bash
-python train.py
-\```
-
-2. Evaluate a goal:
-\```bash
-python evaluate.py --goal "Your goal here"
-\```
 
 ## Contribution
 
